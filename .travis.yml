@@ -4,8 +4,8 @@ node_js:
 script: ./ci/travis_deploy.sh
 env:
   global:
-  - ENCRYPTION_LABEL: "4901db4b206c"
-  - COMMIT_AUTHOR_EMAIL: "frontpressbot@gmail.com"
+  - ENCRYPTION_LABEL: "hdfghsfghsdfg4esgh"
+  - COMMIT_AUTHOR_EMAIL: "tf@molch.at"
 cache:
   directories:
     - node_modules
